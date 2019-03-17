@@ -27,3 +27,8 @@ Deep Learning means hurdles are going to come across. Training a model gets some
 <li>Arduino Uno
 <li>Firebase
 </ol>
+<h3>Links</h3>
+<a href="https://github.com/raffleberry/smart-traffic-management">https://github.com/raffleberry/smart-traffic-management</a>
+<h3>Video Demo</h3>
+<a href="https://github.com/raffleberry/smart-traffic-management">https://github.com/raffleberry/smart-traffic-management</a>
+
