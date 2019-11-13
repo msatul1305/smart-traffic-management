@@ -1,0 +1,7 @@
+/media/atul/bd587908-d8ec-4bc9-a9d0-8230bafa2e36/ubuntu/Desktop/Hackathons/UtkalHacks/vehicle_counting/src/build/CMakeFiles/install/strip.dir
+/media/atul/bd587908-d8ec-4bc9-a9d0-8230bafa2e36/ubuntu/Desktop/Hackathons/UtkalHacks/vehicle_counting/src/build/CMakeFiles/edit_cache.dir
+/media/atul/bd587908-d8ec-4bc9-a9d0-8230bafa2e36/ubuntu/Desktop/Hackathons/UtkalHacks/vehicle_counting/src/build/CMakeFiles/vehicle_counting_demo.dir
+/media/atul/bd587908-d8ec-4bc9-a9d0-8230bafa2e36/ubuntu/Desktop/Hackathons/UtkalHacks/vehicle_counting/src/build/CMakeFiles/install.dir
+/media/atul/bd587908-d8ec-4bc9-a9d0-8230bafa2e36/ubuntu/Desktop/Hackathons/UtkalHacks/vehicle_counting/src/build/CMakeFiles/rebuild_cache.dir
+/media/atul/bd587908-d8ec-4bc9-a9d0-8230bafa2e36/ubuntu/Desktop/Hackathons/UtkalHacks/vehicle_counting/src/build/CMakeFiles/list_install_components.dir
+/media/atul/bd587908-d8ec-4bc9-a9d0-8230bafa2e36/ubuntu/Desktop/Hackathons/UtkalHacks/vehicle_counting/src/build/CMakeFiles/install/local.dir
